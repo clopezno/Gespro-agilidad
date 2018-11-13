@@ -7,4 +7,4 @@ Tareas planificadas para la asignatura de gestión de proyectos de 3º de Grado 
 - [GRUPO C](https://github.com/rhv1001/GESPRO_TEORIA)
 - [GRUPO D](https://github.com/jrs1002/GESPRO_TEORIA)
 - [GRUPO E](https://github.com/rorik/GESPRO_TEORIA/)
-. [GRUPO F](https://github.com/lcs1001/GESPRO_TEORIA)
+- [GRUPO F](https://github.com/lcs1001/GESPRO_TEORIA)

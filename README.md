@@ -7,5 +7,5 @@ Tareas planificadas para la asignatura de gestión de proyectos de 3º de Grado 
 [Libro Scrum Master](https://www.scrummanager.net/bok/index.php?title=Scrum_Manager_BoK)
 
 # Planificación
-[Sprints/hitos y tareas de enseñanza y aprendizaje](https://github.com/clopezno/Gespro-agilidad/milestones)
-[Gestión del flujo de trabajo actual](https://github.com/clopezno/Gespro-agilidad/projects)
+- [Sprints/hitos y tareas de enseñanza y aprendizaje](https://github.com/clopezno/Gespro-agilidad/milestones)
+- [Gestión del flujo de trabajo actual](https://github.com/clopezno/Gespro-agilidad/projects)
